@@ -15,3 +15,4 @@ function sendMessage($chat_id, $message) {
     file_get_contents($url);
 }
 ?>
+v
